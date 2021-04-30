@@ -1,0 +1,15 @@
+Algoritmo algoritmoEmail
+	definir nombreCompleto, email como texto;
+	nombreCompleto = "def nombre completo";
+	email = "def email";
+	
+	Escribir  "ingrese un nombre"; 
+	leer nombreCompleto;
+	Escribir "ingrese un email";
+	leer email;
+	
+	Escribir "El usuario" nombreCompleto "tiene un email" email;
+	
+	
+	
+FinAlgoritmo
